@@ -1,0 +1,15 @@
+name: Acme
+description: 'Simple Bootswatch'
+author: John
+homepage: 'http://acme.com'
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The gobal website name
+      default: Acme
+    site_description:
+          label: Site description
+          comment: The gobal website description
+          default: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam at, culpa delectus dolor doloremque doloribus ea eius error fugit minus molestiae nesciunt nihil non numquam
